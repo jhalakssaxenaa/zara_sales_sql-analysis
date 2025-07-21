@@ -3,6 +3,9 @@
 This project presents a comprehensive data analysis of Zara's product sales using **SQL Server** and **Python (pandas)**. It covers data cleaning, exploratory insights, and business-focused questions — including promotions, product types, pricing strategies, and seasonal effects.
 
 ---
+Here is a link to my dashboard which gives basic insights 
+<img width="1398" height="777" alt="image" src="https://github.com/user-attachments/assets/286244a0-553c-435e-ab96-24bc37f54fcb" />
+
 
 ## 📌 Objectives
 
