@@ -1,6 +1,6 @@
 # 🛍️ Zara Sales SQL Analysis
 
-This project presents a comprehensive data analysis of Zara's product sales using **SQL Server** and **Python (pandas)**. It covers data cleaning, exploratory insights, and business-focused questions — including promotions, product types, pricing strategies, and seasonal effects.
+This project presents a comprehensive data analysis of Zara's product sales using **SQL Server** , **PowerBI** and **Python (pandas)**. It covers data cleaning, exploratory insights, and business-focused questions — including promotions, product types, pricing strategies, and seasonal effects.
 
 ---
 Here is a link to my dashboard which gives basic insights :
@@ -24,7 +24,7 @@ https://amityedu96491-my.sharepoint.com/:u:/r/personal/jhalak_saxena_s_amity_edu
 |----------------|--------------------------------------|
 | Python (pandas)| Pre-SQL data cleaning using jupyter notebook (outlier removal, deduplication) |
 | SQL Server     | Data analysis and business insights  |
-| Git + GitHub   | Version control and project hosting  |
+|  Power BI      |To generate insights  |
 
 ---
 
